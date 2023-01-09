@@ -1,0 +1,16 @@
+Words_i_learned = {'word1': 'syntax', 'definition1': 'a set of rules that defines how a program will be written and interpreted.', 'word2': 'variables', 'definition2': 'names that store values.', 'word3': 'logical operators', 'definition3': 'operators that are used to combine conditional statements', 'word4': 'modulus', 'definition4': 'an arithmetic operator that finds the remainder or signed remainder after the division of one number by another.', 'word5': 'tuples', 'definition5': 'A collection of Python objects separated by commas.'}
+print(Words_i_learned['word1'])
+print(Words_i_learned['definition1'])
+print("\n")
+print(Words_i_learned['word2'])
+print(Words_i_learned['definition2'])
+print("\n")
+print(Words_i_learned['word3'])
+print(Words_i_learned['definition3'])
+print("\n")
+print(Words_i_learned['word4'])
+print(Words_i_learned['definition4'])
+print("\n")
+print(Words_i_learned['word5'])
+print(Words_i_learned['definition5'])
+#I made a dictionary of 5 words I remember from this course and put it in the variable "Words_i_learned". After than, I just printed each word and definition individually and also printed an "\n" to make a space between each word and definition.

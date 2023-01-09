@@ -1,0 +1,2 @@
+print('Vince Lombardi once said, "Perfection is not attainable, but if we chase perfection we can catch excellence."')
+#Pretty simple. I just searched to a nice quote on the internet and printed it. Like I said on the the comment on the second line, I thought the quote was a bit pretentious but I liked the meaning of it. 

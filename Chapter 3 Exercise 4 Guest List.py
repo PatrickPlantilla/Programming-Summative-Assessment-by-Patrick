@@ -1,0 +1,4 @@
+NotableFilipinoFigures = ["Jose Rizal", "Andres Bonifacio", "Manuel Quezon", "Ferdinand Marcos Sr."]
+for x in NotableFilipinoFigures:
+    print("\n\n\nGreetings,", x, "\t\nI would like to invite you to Dinner consisting of many Modern Filipino Cuisine to get your opinion on the state of our nation while having dinner. I would also like to know if the modern renditions of your actions reflect what actually happened.")
+#Pretty much the same process as the past exercises of this chapter but I also use “\n” and “\t” to make the message look more professional when I run the code in the terminal. 

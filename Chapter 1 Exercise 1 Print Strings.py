@@ -1,0 +1,2 @@
+print("Twinkle, twinkle, little star, How I wonder what you are!\nUp above the world so high, Like a diamond in the sky.\nTwinkle, twinkle, little star, How I wonder what you are.")
+#Pretty simple. I just printed the lyrics for the nursery song, “Twinkle Twinkle Little Star” on the first line while putting 2 “\n” to split the lyrics into 3 lines. 
